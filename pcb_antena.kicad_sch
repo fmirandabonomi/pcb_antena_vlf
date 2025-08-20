@@ -2477,6 +2477,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 68.58) (xy 222.25 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32f348fe-c6da-4822-990a-e93fe12b5f40")
+	)
+	(wire
+		(pts
 			(xy 171.45 39.37) (xy 171.45 41.91)
 		)
 		(stroke
@@ -2567,6 +2577,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 74.93) (xy 246.38 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4acf6ad6-6454-48b2-8622-8dde2872f5e9")
+	)
+	(wire
+		(pts
 			(xy 34.29 128.27) (xy 50.8 128.27)
 		)
 		(stroke
@@ -2614,6 +2634,16 @@
 			(type default)
 		)
 		(uuid "5b3a0723-3fb7-4170-8441-29b59182b5f2")
+	)
+	(wire
+		(pts
+			(xy 246.38 74.93) (xy 246.38 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bcf57ff-cc40-4925-80d9-c8b3ccdaa5ba")
 	)
 	(wire
 		(pts
@@ -2997,6 +3027,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 68.58) (xy 222.25 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b291ece9-1de1-414d-aadf-bd6085544658")
+	)
+	(wire
+		(pts
 			(xy 201.93 128.27) (xy 201.93 116.84)
 		)
 		(stroke
@@ -3187,6 +3227,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 66.04) (xy 241.3 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da002e7f-02f5-4aab-b7e0-60e0b8e9ec9e")
+	)
+	(wire
+		(pts
 			(xy 114.3 52.07) (xy 129.54 52.07)
 		)
 		(stroke
@@ -3295,6 +3345,16 @@
 		)
 		(uuid "fae04e1f-40d1-404d-8029-a39fd8f55e35")
 	)
+	(wire
+		(pts
+			(xy 220.98 63.5) (xy 226.06 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc87761a-7650-4e48-b8fa-643cec3891d2")
+	)
 	(global_label "Vq"
 		(shape input)
 		(at 220.98 119.38 0)
@@ -3335,6 +3395,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Vq"
+		(shape input)
+		(at 220.98 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "afb486a8-7be2-4353-a833-60f0bb34c0cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 215.7572 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5818,6 +5900,92 @@
 				(path "/d06a90f2-131c-4d35-8833-41ab8319c85a"
 					(reference "U1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:TL082")
+		(at 233.68 66.04 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d770a1e9-17f2-4ee6-b568-946faa123ab3")
+		(property "Reference" "U2"
+			(at 233.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TL082"
+			(at 233.68 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl081.pdf"
+			(at 233.68 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8"
+			(at 233.68 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0ea910ff-bd1f-4969-af40-8ec579f81de4")
+		)
+		(pin "1"
+			(uuid "4c24558b-30c8-4ac1-9022-6b75e00380d8")
+		)
+		(pin "8"
+			(uuid "b11c224e-ac63-4780-bbe3-d263b6fa0fe3")
+		)
+		(pin "6"
+			(uuid "2670c6a5-d6e7-4124-9cc9-1cb3f90e1816")
+		)
+		(pin "5"
+			(uuid "2f6e48c5-d456-4fb6-a283-0a93e98654a8")
+		)
+		(pin "7"
+			(uuid "3e292687-1627-40e5-81b2-1bb09d9a577c")
+		)
+		(pin "4"
+			(uuid "84321efc-d43f-4b08-b940-d962c8a9e86a")
+		)
+		(pin "3"
+			(uuid "1612486d-721c-40ae-9055-891a9d1b1d32")
+		)
+		(instances
+			(project ""
+				(path "/d06a90f2-131c-4d35-8833-41ab8319c85a"
+					(reference "U2")
+					(unit 2)
 				)
 			)
 		)
