@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "huellas_proyecto")(type "KiCad")(uri "${KIPRJMOD}/huellas_proyecto.pretty")(options "")(descr ""))
+)
