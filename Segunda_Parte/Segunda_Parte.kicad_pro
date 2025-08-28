@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 2.2,
-          "width": 2.2
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -188,7 +188,6 @@
       ],
       "track_widths": [
         0.0,
-        1.5,
         2.0
       ],
       "tuning_pattern_settings": {
@@ -466,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcb_antena.kicad_pro",
+    "filename": "Diseño_Digital.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -502,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../GERBER/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -582,7 +581,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Referencia"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -612,6 +611,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -626,7 +633,7 @@
   },
   "sheets": [
     [
-      "d06a90f2-131c-4d35-8833-41ab8319c85a",
+      "af45896c-7063-4800-abc6-a11933bf4552",
       "Root"
     ]
   ],
