@@ -208,7 +208,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0a0ddddb-203a-4c0a-adf9-61c27de57a1b")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 36.94)
@@ -604,7 +604,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/82481b25-c5d2-4ff0-be82-06813458b731")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.78 1.24)
@@ -2706,7 +2706,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/97efeefa-54fe-4efe-82c9-315dfc57b8e4")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -2992,7 +2992,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/fb97e99b-4f1e-4056-9888-8dc8583ce4c1")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -3252,7 +3252,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/48a0f160-7e14-49ed-bf79-5fdea0717d90")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3356,7 +3356,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/f10141f4-cefd-4d6e-ba9e-9ff448a5e41c")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.78 1.24)
@@ -5458,7 +5458,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/352560ed-d81e-4a91-99c6-67639f42c25e")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.34 0)
@@ -5717,7 +5717,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d6bafc0c-9a72-49d0-aa25-27342d0f5311")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -5892,7 +5892,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/286c278f-848e-49b1-b038-38bb7475631c")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5996,7 +5996,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/d87c741d-4d22-485f-988e-091ce51d493d")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.54 -5.08)
@@ -8071,7 +8071,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2fa03ff0-271d-4774-a80f-9de5a23cc6cf")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -8272,7 +8272,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/56c95c62-7d87-437d-a99e-0740f8104659")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -8532,7 +8532,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/128bdb88-f2f2-473b-bc85-36dffcfc489d")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.92 -1.38)
@@ -8850,7 +8850,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f7c2ee1b-45eb-4e39-a3ff-fb180e94f72a")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -9170,7 +9170,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7f86961a-e164-4c8f-9162-a4f893f2ccbc")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 24.24)
@@ -9512,7 +9512,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/d61b68ca-fed3-40a0-8ef5-d4ef9361680e")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -9616,7 +9616,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b680a9ce-2241-40ba-8894-1d919da8ddcc")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -9790,7 +9790,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/067e66e2-494d-43ec-aa04-4e1a34f75274")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.62 4.12)
@@ -10168,7 +10168,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/de2138b0-0f90-42af-921f-888a8ea3b362")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 17.62 4.12)
@@ -10630,7 +10630,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b0b38987-9597-4d62-8c87-0ae96e3dbfb9")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -10831,7 +10831,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/0748759d-9b71-4414-91cc-1ef2f8c5f88d")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.34 0)
@@ -11090,7 +11090,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/eff57225-23e7-4dcd-88c9-e9002a2c0e35")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -11264,7 +11264,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2b211a6-ca6b-4b3c-a470-51b7fc857d76")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.17 1.72)
@@ -11447,7 +11447,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/54463d1f-da5c-491d-bff8-5330898dadc1")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.62 4.12)
@@ -11826,7 +11826,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/2160900c-04af-4050-9ac1-c045619b272f")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -11930,7 +11930,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8c9d1672-a3a6-42de-bccd-cb3d9b0a6b2d")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.17 -1.72)
@@ -12113,7 +12113,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e969ba53-e6d1-46e8-8961-ced3f0b9a66e")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -12287,7 +12287,7 @@
 		(property ki_fp_filters "TO?252* TO?263* TO?220*")
 		(path "/aa1201db-0c0b-4362-8b6c-bc83aa500a9e")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.65 1.36)
@@ -12550,7 +12550,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/247ca523-7dc1-499b-8709-47e4298f6bf5")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -12836,7 +12836,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/dc1f172b-3f11-44a8-83c0-685a1147d460")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.34 0)
@@ -13095,7 +13095,7 @@
 		)
 		(path "/907ec871-80b8-48b9-bdaa-20f9f48dd8c7")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 18.995 50.705)
@@ -14139,7 +14139,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/1d085d97-fe93-4dcb-9520-afdfce7731ee")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.34 0)
@@ -14404,7 +14404,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/018a23f4-1e6b-4366-9484-171487d0cfe5")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.21 0)
@@ -14787,7 +14787,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/92ca7249-dfc1-4625-8bc2-3abf7597d0aa")
 		(sheetname "/")
-		(sheetfile "Diseño_Digital.kicad_sch")
+		(sheetfile "adquisicion.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.21 0)

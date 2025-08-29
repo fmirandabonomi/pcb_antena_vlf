@@ -157,7 +157,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8ed157c5-282f-42bb-98b1-3828cb72349b")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -331,7 +331,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9cb09808-18c1-464a-9513-d22c5e4051d1")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -506,7 +506,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/2160900c-04af-4050-9ac1-c045619b272f")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -610,7 +610,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0d19e18c-754f-49f6-8b26-c2d379bce657")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -784,7 +784,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/8e3421e4-73e7-4737-b003-ac70f8a779c2")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.54 -5.08)
@@ -2859,7 +2859,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e81ac684-e5ee-431d-9c71-334d91f38689")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -3033,7 +3033,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/ac680725-75e9-48cb-b903-eca2afffd9db")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.78 1.24)
@@ -5108,7 +5108,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fc84639b-a83d-4c19-85c4-b1e097ee053f")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -5282,7 +5282,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b0e10f8c-79a4-4070-99b0-428560315066")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -5456,7 +5456,7 @@
 		(property ki_fp_filters "TO?220*")
 		(path "/cf7ba6c4-172b-4304-881f-0d9008fbc8e0")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.65 1.36)
@@ -5692,7 +5692,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8c0b8968-b729-4cb2-aefc-828a4c81bfa8")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.17 -1.72)
@@ -5875,7 +5875,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/d78ec6f3-ab32-47fa-9684-4a50c4bd38ae")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.06 8.95)
@@ -6165,7 +6165,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f66d5bf3-05b2-46ab-aa8a-b5d5ca68c956")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -6340,7 +6340,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/286c278f-848e-49b1-b038-38bb7475631c")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6444,7 +6444,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3691998c-5cde-4567-baff-d01674fd9def")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.17 -1.72)
@@ -6627,7 +6627,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7167a74d-aac7-4b34-a1e7-9488909cf6ec")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.17 1.72)
@@ -6811,7 +6811,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/d61b68ca-fed3-40a0-8ef5-d4ef9361680e")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6915,7 +6915,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c9304553-2e95-4bad-8740-b1edb7dbdf30")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -7089,7 +7089,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/ea340ed3-1c25-43b1-ae79-435d5cea3fde")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.78 1.24)
@@ -9164,7 +9164,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ea25dfd4-1d8c-47ac-b9a5-0143edb3a5cc")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -9338,7 +9338,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/61fcf1ef-f8fd-4892-b387-764e857c9214")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.62 -6.62)
@@ -9716,7 +9716,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/6ebfafca-9285-4837-80b2-c765179b131e")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.335 2.53)
@@ -9923,7 +9923,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/aca7d601-64fa-430b-9e25-538097e16ed1")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.17 -1.72)
@@ -10106,7 +10106,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a7ad0f35-3250-49ef-9d4d-8a139612afb1")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.17 1.72)
@@ -10289,7 +10289,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fcb0654a-62e1-46e2-b016-c66b33cf7b04")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -10463,7 +10463,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5ffda446-f5ff-43d8-99d9-391c7bbef5e0")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -10638,7 +10638,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/48a0f160-7e14-49ed-bf79-5fdea0717d90")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -10742,7 +10742,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/865d18d9-0182-42e6-aa8d-db54b1e58641")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9 0)
@@ -10916,7 +10916,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/97d70330-42bc-49d1-8dcb-3f96da5a3ca8")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.5 0)
@@ -11090,7 +11090,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/84eb4e6c-9d7e-49c1-9c82-88619c25b585")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.979646 -2.875)
@@ -13165,7 +13165,7 @@
 		(property ki_fp_filters "SOIC*P1.27mm* DIP*W7.62mm*")
 		(path "/625ef8ca-438d-4551-971f-18f808f438d6")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -13456,7 +13456,7 @@
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/fb33f835-709f-458c-8f7f-f8e1117af0ba")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.06 -1.33)
@@ -13810,7 +13810,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2524bb47-9101-4166-a2e9-aca646eb1045")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 14 0)
@@ -13984,7 +13984,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/875c5a20-dd3f-4df6-9dde-e5315b16ed3c")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.62 4.12)
@@ -14368,7 +14368,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/d8b1a5dd-be64-45b4-a8c0-1baf1cf83a76")
 		(sheetname "/")
-		(sheetfile "pcb_antena.kicad_sch")
+		(sheetfile "acondicionador.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.71 -0.25)
