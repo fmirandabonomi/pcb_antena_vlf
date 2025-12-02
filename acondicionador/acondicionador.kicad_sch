@@ -2496,6 +2496,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Comp. Vio"
+		(exclude_from_sim no)
+		(at 89.916 105.156 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "11410a61-88a0-4f66-a28c-7efef808d9a6")
+	)
 	(junction
 		(at 132.08 97.79)
 		(diameter 0)
@@ -2525,6 +2535,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39ba5cdf-d1f6-4a16-a621-8f4019fcbe13")
+	)
+	(junction
+		(at 58.42 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b359353-eea7-4c49-887b-2b560a162175")
 	)
 	(junction
 		(at 91.44 125.73)
@@ -2958,7 +2974,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 97.79) (xy 53.34 97.79)
+			(xy 60.96 97.79) (xy 58.42 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3558,6 +3574,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 97.79) (xy 53.34 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c405a0fd-2a70-477f-837c-464be295e2ed")
+	)
+	(wire
+		(pts
 			(xy 132.08 97.79) (xy 142.24 97.79)
 		)
 		(stroke
@@ -3575,6 +3601,16 @@
 			(type default)
 		)
 		(uuid "c794ecda-be4b-4480-9c14-cc19c4ad94ec")
+	)
+	(wire
+		(pts
+			(xy 73.66 109.22) (xy 78.74 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7981834-430e-4381-9475-5a3297eb92e9")
 	)
 	(wire
 		(pts
@@ -3645,6 +3681,16 @@
 			(type default)
 		)
 		(uuid "d8c79549-b8ab-4520-bf81-aa40caf971ab")
+	)
+	(wire
+		(pts
+			(xy 58.42 109.22) (xy 66.04 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9856ccc-497c-464a-865d-16a36df97e24")
 	)
 	(wire
 		(pts
@@ -3755,6 +3801,16 @@
 			(type default)
 		)
 		(uuid "ebf69b9f-c156-494e-bb9a-9a884020141b")
+	)
+	(wire
+		(pts
+			(xy 58.42 97.79) (xy 58.42 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0fb9e06-dcb2-4924-85f7-a41bedd25359")
 	)
 	(wire
 		(pts
@@ -4117,6 +4173,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Potentiometer_Trim_US")
+		(at 82.55 109.22 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f268b94-5dc9-4d95-a054-86d2c28b4a3f")
+		(property "Reference" "RV2"
+			(at 85.09 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 85.09 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "huellas_proyecto:Potentiometer_Bourns_3296W_Vertical-pad2mm"
+			(at 82.55 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 82.55 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Trim-potentiometer, US symbol"
+			(at 82.55 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea82a480-e0dd-4f78-bc44-21e7f6faab62")
+		)
+		(pin "3"
+			(uuid "e6dfe133-69cf-4c2d-ab55-1744a0f90933")
+		)
+		(pin "2"
+			(uuid "0d70427e-ce7a-4636-90fe-fe48ff496966")
+		)
+		(instances
+			(project "acondicionador"
+				(path "/d06a90f2-131c-4d35-8833-41ab8319c85a"
+					(reference "RV2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 227.33 139.7 0)
 		(unit 1)
@@ -4451,6 +4580,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 82.55 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33bc8604-0944-49e3-b9ed-6b796c96399c")
+		(property "Reference" "#PWR015"
+			(at 82.55 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 82.55 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.55 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 82.55 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c73e41fb-b6b6-4759-81e0-d006a778ccd4")
+		)
+		(instances
+			(project ""
+				(path "/d06a90f2-131c-4d35-8833-41ab8319c85a"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_US")
 		(at 96.52 41.91 0)
 		(unit 1)
@@ -4531,7 +4726,7 @@
 		(dnp no)
 		(uuid "3e279790-8b94-454c-baec-b53d402f5e60")
 		(property "Reference" "U1"
-			(at 68.58 105.41 0)
+			(at 74.93 100.838 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4539,7 +4734,7 @@
 			)
 		)
 		(property "Value" "TL084"
-			(at 68.58 102.87 0)
+			(at 74.676 98.552 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6665,6 +6860,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 69.85 109.22 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c43c0a5b-f141-4312-82ce-47b098e56d5c")
+		(property "Reference" "R15"
+			(at 69.596 106.426 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "750k"
+			(at 69.85 112.014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "huellas_proyecto:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal-pad2mm"
+			(at 70.104 108.204 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 69.85 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 69.85 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aa6376c3-5cae-46f7-8ee9-8892fa59b728")
+		)
+		(pin "1"
+			(uuid "d62fb142-2033-4fde-9ae1-1d7cd07797f6")
+		)
+		(instances
+			(project "acondicionador"
+				(path "/d06a90f2-131c-4d35-8833-41ab8319c85a"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:TL084")
 		(at 116.84 44.45 0)
 		(unit 5)
@@ -7381,6 +7643,72 @@
 			(project ""
 				(path "/d06a90f2-131c-4d35-8833-41ab8319c85a"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 82.55 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e3b95f93-0a41-4e73-b268-fa716c099b3d")
+		(property "Reference" "#PWR016"
+			(at 82.55 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 82.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1282a6c9-0027-4eb4-b777-a5798ae2ee6f")
+		)
+		(instances
+			(project ""
+				(path "/d06a90f2-131c-4d35-8833-41ab8319c85a"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
